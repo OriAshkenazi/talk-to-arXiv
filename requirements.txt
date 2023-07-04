@@ -16,3 +16,6 @@ tqdm
 termcolor
 markdown
 webbrowser
+streamlit
+streamlit_chat
+streamlit_option_menu
